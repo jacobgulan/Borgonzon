@@ -1,0 +1,5 @@
+scr_spawnEnemy(obj_enemy2, pth_5)
+scr_spawnEnemy(obj_enemy2, pth_3)
+scr_spawnEnemy(obj_enemy2, pth_4)
+scr_spawnEnemy(obj_enemy1, pth_0)
+scr_spawnEnemy(obj_enemy1, pth_0)

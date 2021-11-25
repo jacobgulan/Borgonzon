@@ -1,0 +1,1 @@
+instance_create_layer(x, y, "lyr_player", obj_boss)

@@ -1,0 +1,1 @@
+scr_spawnEnemy(obj_enemy2, pth_5)

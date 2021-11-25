@@ -1,0 +1,41 @@
+{
+  "spriteId": {
+    "name": "spr_exitButton",
+    "path": "sprites/spr_exitButton/spr_exitButton.yy",
+  },
+  "solid": false,
+  "visible": true,
+  "spriteMaskId": null,
+  "persistent": false,
+  "parentObjectId": {
+    "name": "obj_startGame",
+    "path": "objects/obj_startGame/obj_startGame.yy",
+  },
+  "physicsObject": false,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsGroup": 1,
+  "physicsDensity": 0.5,
+  "physicsRestitution": 0.1,
+  "physicsLinearDamping": 0.1,
+  "physicsAngularDamping": 0.1,
+  "physicsFriction": 0.2,
+  "physicsStartAwake": true,
+  "physicsKinematic": false,
+  "physicsShapePoints": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_exitButton","path":"objects/obj_exitButton/obj_exitButton.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
+  "properties": [],
+  "overriddenProperties": [
+    {"propertyId":{"name":"gotoRoom","path":"objects/obj_startGame/obj_startGame.yy",},"objectId":{"name":"obj_startGame","path":"objects/obj_startGame/obj_startGame.yy",},"value":"rm_yourScore","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+  ],
+  "parent": {
+    "name": "Objects",
+    "path": "folders/Objects.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "obj_exitButton",
+  "tags": [],
+  "resourceType": "GMObject",
+}
