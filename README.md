@@ -9,6 +9,7 @@ To play:
 2. Open in GameMaker Studio 2
 3. Run project
 
+The goal of Borgonzon is to defeat the final boss by clearing all the waves of enemy spaceships and then beating the boss itself.
 
 Before endless mode, enemies will fall onto the screen and assume a predetermined path.\
 There are two types of enemies:
