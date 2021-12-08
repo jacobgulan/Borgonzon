@@ -1,5 +1,5 @@
 # Borgonzon
-Borgonzon is a sci-fi space shooter where the player is fighting to save the galaxy from aliens attack.\
+Borgonzon is a sci-fi space shooter where the player is fighting to save the galaxy from aliens attack.
 
 Created using GameMaker Studio 2
 
@@ -73,7 +73,7 @@ Alt + P
 
 Toggle Invulernability
 ```
-Alt + P
+Alt + Q
 ```
 
 Increase Lives
